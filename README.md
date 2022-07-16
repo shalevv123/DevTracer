@@ -24,7 +24,7 @@ A list that represents the output of running the query on the database.
 
 Example: 
 
-![Screenshot](QueryExample.png)
+![Screenshot](/Pictures/QueryExample.png)
 
 **InitData(file\_path)** 
 
