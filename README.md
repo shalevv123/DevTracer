@@ -1,4 +1,6 @@
-﻿**DevTracer – User Guide** 
+﻿![Screenshot](/Pictures/DevTracerLogo.png)
+ 
+ **DevTracer – User Guide** 
 
 **Query(\*, visualize=False, file\_name='visualization')** 
 
@@ -18,9 +20,12 @@ If visualize is true, specifies the file name for the output html file.
 
 Returns:  
 
-A list that represents the output of running the query on the database. Example: 
+A list that represents the output of running the query on the database. 
 
-![](Aspose.Words.b973b0b5-eaa6-439d-aeef-4b965df0e98c.001.png)
+Example: 
+
+
+![Screenshot](QueryExample.png)
 
 **InitData(file\_path)** 
 
